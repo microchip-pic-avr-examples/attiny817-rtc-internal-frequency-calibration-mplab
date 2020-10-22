@@ -3,7 +3,7 @@
     "category": "com.microchip.ide.project",
     "content": {
         "metaDataVersion": "1.1.0",
-        "name": "com.microchip.mcu8.mplab.project.attiny817-rtc-internal-frequency-calibration-mplab",
+        "name": "com.microchip.mcu8.mplabx.project.attiny817-rtc-internal-frequency-calibration-mplab",
         "version": "1.0.0",
         "displayName": "RTC Internal Frequency Calibration",
         "projectName": "attiny817-rtc-internal-frequency-calibration-mplab",
@@ -56,8 +56,6 @@
             "TCD"
         ],
         "keywords": [
-            "",
-            ""
         ],
         "additionalData": {
             "longDescription": {
