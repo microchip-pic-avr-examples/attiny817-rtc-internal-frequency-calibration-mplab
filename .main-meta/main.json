@@ -4,18 +4,18 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.attiny817-rtc-internal-frequency-calibration-mplab",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "RTC Internal Frequency Calibration",
         "projectName": "attiny817-rtc-internal-frequency-calibration-mplab",
         "shortDescription": "This application uses RTC, 32.768 kHz crystal, external clock, Event System and TCD to measure the accuracy of the external crystal.",
         "ide": {
-            "name": "MPLABX",
-            "semverRange": ">=5.40"
+            "name": "MPLAB X",
+            "semverRange": ">=5.40.0"
         },
         "compiler": [
             {
                 "name": "XC8",
-                "semverRange": "^2.29"
+                "semverRange": "^2.29.0"
             }
         ],
         "dfp": {
@@ -56,6 +56,9 @@
             "TCD"
         ],
         "keywords": [
+            "XOSC32K", 
+            "EVSYS", 
+            "Calibration"
         ],
         "additionalData": {
             "longDescription": {
