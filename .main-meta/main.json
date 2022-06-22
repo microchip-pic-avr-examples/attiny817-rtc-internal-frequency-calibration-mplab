@@ -2,7 +2,7 @@
     "metaDataVersion": "1.0.0",
     "category": "com.microchip.ide.project",
     "content": {
-        "metaDataVersion": "1.1.0",
+        "metaDataVersion": "1.3.0",
         "name": "com.microchip.mcu8.mplabx.project.attiny817-rtc-internal-frequency-calibration-mplab",
         "version": "1.0.1",
         "displayName": "RTC Internal Frequency Calibration",
@@ -32,32 +32,18 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "ATtiny817",
+                "name": "ATTINY817",
                 "versionRange": "*"
             }
         },
         "author": "Microchip",
-        "subcategories": [
-            [
-                "Peripherals",
-                "RTC"
-            ],
-            [
-                "Peripherals",
-                "TCD"
-            ],
-            [
-                "Development Kit",
-                "ATtiny817 Xplained Pro"
-            ]
-        ],
         "peripherals": [
             "RTC",
             "TCD"
         ],
         "keywords": [
-            "XOSC32K", 
-            "EVSYS", 
+            "XOSC32K",
+            "EVSYS",
             "Calibration"
         ],
         "additionalData": {
